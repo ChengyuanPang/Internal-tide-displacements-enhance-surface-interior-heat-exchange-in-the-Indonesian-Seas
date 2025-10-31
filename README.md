@@ -16,13 +16,13 @@ This project provides the raw data and codes to reproduce the figures of a paper
 ### `Figure_3.mat`:
 
 `Figure_3` provides the diagnosed tidal displacements and high-frequency (3 hourly) "virtual mooring" data in the regional model. 
-`displacments` is the time-averaged tidal displacements at 100 m in the model.
-`Kv_3h` and `T_3h` are the 3 hourly time-series of vertical diffusivity and temperature. 
+`displacement` is the time-averaged tidal displacements at 100 m in the model.
+`Kv_3h` and `T_3h` are the 3 hourly time-series of vertical diffusivity and temperature.
 
 ### `Figure_4ab.mat`, `Figure_4cd.mat` and `Figure_4ef.mat`:
 
 The three files provide the raw data to make the Figure 4 in the paper.
-`TV_N` and `TV_S` are the time-averaged temperature variability (◦C) at the mixed layer base during the Northwest (JFM) and Southeast (JAS) monsoons. 
+`TV_N` and `TV_S` are the time-averaged temperature variability at the mixed layer base during the Northwest (JFM) and Southeast (JAS) monsoons. 
 `MLD_N` (`MLD_S`) and `T26_N` (`T26_S`) are the time-averaged mixed layer and isotherm 26 $^oC$ depths during the Northwest (Southeast) monsoon.
 `san_eddy` and `ban_eddy` are the monthly-averaged eddy heat fluxes (TW) across the mixed layer base in the Sangihe Island Chain and the Banda Sea.
 `san_MLD` (`ban_MLD`) and `san_T26` (`ban_T26`) are the monthly-averaged mixed layer and isotherm 26 $^oC$ depths in the Sangihe Island Chain (the Banda Sea).
