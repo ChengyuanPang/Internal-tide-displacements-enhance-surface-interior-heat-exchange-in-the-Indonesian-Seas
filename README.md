@@ -1,6 +1,7 @@
 # Internal-tide-displacements-enhance-surface-interior-heat-exchange-in-the-Indonesian-Seas
 
-This project provides the raw data and codes to reproduce the figures of a paper submitted to GRL The raw data are saved in Matlab data format. Plsese download all files into a folder and run the Script_GRL.m under MATLAB. The code and data to reproduce key results are shown below. Full model outputs are available upon request to the corresponding author.
+This project provides the raw data and codes to reproduce the figures of a paper submitted to GRL.
+The raw data and codes are saved in Matlab data format. Plsese download all files into a folder and run the Script_GRL.m under MATLAB. Full model outputs are available upon request to the corresponding author.
 
 ## Raw Data
 
@@ -35,4 +36,4 @@ This file provides 4 colormaps used to make the figures.
 
 ### `Script_GRL.m`：
 
-`Script_GRL.m` includes 4 sections which provide the code to produce the 4 figures in the paper.
+`Script_GRL.m` includes 4 sections which provide the codes to produce the 4 figures in the paper.
