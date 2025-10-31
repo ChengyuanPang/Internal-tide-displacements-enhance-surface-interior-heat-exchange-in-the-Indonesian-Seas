@@ -25,7 +25,7 @@ This project provides the raw data and codes to reproduce the figures of a paper
 `TV_N` and `TV_S` are the time-averaged temperature variability (◦C) at the mixed layer base during the Northwest (JFM) and Southeast (JAS) monsoons. 
 `MLD_N` (`MLD_S`) and `T26_N` (`T26_S`) are the time-averaged mixed layer and isotherm 26 $^oC$ depths during the Northwest (Southeast) monsoon.
 `san_eddy` and `ban_eddy` are the monthly-averaged eddy heat fluxes (TW) across the mixed layer base in the Sangihe Island Chain and the Banda Sea.
-`san_MLD` (`ban_MLD`) and `san_T26` (`ban_T26`) are the monthly-averaged mixed layer and isotherm $^oC$ depths in the Sangihe Island Chain (the Banda Sea).
+`san_MLD` (`ban_MLD`) and `san_T26` (`ban_T26`) are the monthly-averaged mixed layer and isotherm 26 $^oC$ depths in the Sangihe Island Chain (the Banda Sea).
 
 ### `colormaps.mat`:
 
